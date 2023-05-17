@@ -20,5 +20,5 @@ Grafana <br>
 ![Название скриншота](https://github.com/Night-N/9-4-prometheus/blob/main/9-4-4.png)
 
 ### Задание 5
-Прометеус, подключенный в графане <br>
+Прометеус, подключенный к графане <br>
 ![Название скриншота](https://github.com/Night-N/9-4-prometheus/blob/main/9-4-5.jpg)
