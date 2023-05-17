@@ -4,21 +4,21 @@
 
 ### Задание 1
 
-Установка Prometheus
+Установка Prometheus <br>
 ![Название скриншота](https://github.com/Night-N/9-4-prometheus/blob/main/9-4-1.jpg)
 
 ### Задание 2
-Node Exporter:
+Node Exporter: <br>
 ![Название скриншота](https://github.com/Night-N/9-4-prometheus/blob/main/9-4-2.jpg)
 
 ### Задание 3
-Два эндпоинта в прометеусе:
+Два эндпоинта в прометеусе: <br>
 ![Название скриншота](https://github.com/Night-N/9-4-prometheus/blob/main/9-4-3.jpg)
 
 ### Задание 4
-Grafana
+Grafana <br>
 ![Название скриншота](https://github.com/Night-N/9-4-prometheus/blob/main/9-4-4.png)
 
 ### Задание 5
-Прометеус, подключенный в графане
+Прометеус, подключенный в графане <br>
 ![Название скриншота](https://github.com/Night-N/9-4-prometheus/blob/main/9-4-5.jpg)
